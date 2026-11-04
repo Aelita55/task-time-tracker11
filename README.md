@@ -16,6 +16,7 @@
 - **Unit-тесты**: полное покрытие основных методов
 
 4. Структура проекта
+
 task-time-tracker/
 
 ├── time_tracker.py # отдельный модуль учёта времени
@@ -28,8 +29,7 @@ task-time-tracker/
 
 └── requirements.txt # зависимости
 
-5. Технологии
-- Python 3.12
+5. Технологии: Python 3.12
 
 6. Запуск
 python main.py
